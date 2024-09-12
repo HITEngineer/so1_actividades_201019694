@@ -1,0 +1,1 @@
+git filter-repo --path actividad6/actividad6_procesos_hilos.md --replace-text <(echo "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=>[REDACTED]")
